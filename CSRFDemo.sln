@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSRFDemo", "CSRFDemo.csproj", "{FCA51F61-FFA3-4B25-B47A-10552310E0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA51F61-FFA3-4B25-B47A-10552310E0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA51F61-FFA3-4B25-B47A-10552310E0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA51F61-FFA3-4B25-B47A-10552310E0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA51F61-FFA3-4B25-B47A-10552310E0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCDE9E7-DBD1-4FFB-970D-0AE49E36BAE0}
+	EndGlobalSection
+EndGlobal
